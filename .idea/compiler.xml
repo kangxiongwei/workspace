@@ -23,10 +23,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="kxw-hadoop" />
         <module name="kxw-junit" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="kxw-hadoop" target="1.8" />
       <module name="kxw-junit" target="1.8" />
     </bytecodeTargetLevel>
   </component>

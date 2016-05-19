@@ -1,0 +1,4 @@
+hello hadoop
+hi kxw
+kxw is from china
+hello kxw
