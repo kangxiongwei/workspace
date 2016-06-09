@@ -1,7 +1,4 @@
 */target/*
 *.iml
-.idea/*
-<<<<<<< HEAD
+.idea/
 out/*
-=======
->>>>>>> c9aeed8b96e75f039cedf33df4601eb927cbef2d
