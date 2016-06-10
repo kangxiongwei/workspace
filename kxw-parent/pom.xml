@@ -10,6 +10,7 @@
         <module>../kxw-hadoop</module>
         <module>../kxw-thread</module>
         <module>../kxw-commons</module>
+        <module>../junit-in-action</module>
     </modules>
     <packaging>pom</packaging>
 
